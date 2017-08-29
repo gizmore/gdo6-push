@@ -1,9 +1,9 @@
 <?php
 namespace GDO\Push;
 
-use GDO\Core\Module;
+use GDO\Core\GDO_Module;
 
-final class Module_Push extends Module
+final class Module_Push extends GDO_Module
 {
     
 }
